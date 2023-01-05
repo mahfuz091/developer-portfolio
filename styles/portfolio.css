@@ -196,6 +196,7 @@ main {
     text-align: center;
 }
 /* contact styles */
+
 .contact{
     display: flex;
     gap: 100px;
